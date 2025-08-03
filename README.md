@@ -5,7 +5,7 @@ This repository hosts the privacy policy for the mobile application **Simple Fin
 ## 🔐 Privacy Policy
 
 You can view the live privacy policy here:  
-[https://zasthrax.github.io/simple-finance-calculators-privacy-policy/](https://zasthrax.github.io/simple-finance-calculators-privacy-policy/)
+[[https://zasthrax.github.io/simple-finance-calculators-privacy-policy/](https://zasthrax.github.io/simple-finance-calculators-privacy-policy/)
 
 ## 📱 About the App
 
